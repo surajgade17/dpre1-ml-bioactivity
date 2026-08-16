@@ -1,0 +1,12 @@
+# Colab checkpoint files — auto-generated, no need to track
+.ipynb_checkpoints/
+
+# Python cache files
+_pycache_/
+*.pyc
+
+# macOS system file (harmless to include even though you're on Windows/Colab)
+.DS_Store
+
+# Large generated files we'll regenerate, not hand-track in git history
+*.pkl
